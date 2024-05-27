@@ -25,11 +25,9 @@ openEuler的基本管理单位是rpm包。openEuler含有很多包（以及很�
 
 ### 项目导师
 
-张相锋
+张旭舟
 
-* github https://github.com/mailofzxf
-
-* email mailofzxf@aliyun.com
+* email zhangxuzhou4@huawei.com
 
 
 
